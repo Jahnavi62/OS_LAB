@@ -168,4 +168,4 @@ In short, the program shows how to interact with files and directories in a Unix
 > `./exec-name`
 > 
 # Output of the code
-![ Program output in console](exp2.png)
+![ "C:\Users\S.Janu\OneDrive\Pictures\Screenshots\exp2.png"](exp2.png)
