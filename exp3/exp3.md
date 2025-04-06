@@ -230,8 +230,12 @@ int main() {
 > `./exec-name`
 >
 >  # Output of the program
-> ![ Screen Shot 1](op1.png)
-> ![ Screen Shot 2](op2.png)
-> ![ Screen Shot 3](op3.png)
-> ![ Screen Shot 4](op4.png)
+> ![Screenshot (170)](https://github.com/user-attachments/assets/12c4f575-356e-4b3b-9ab8-e950660930e4)
+
+> ![Screenshot (171)](https://github.com/user-attachments/assets/c8a3704c-911a-4ec8-80ff-419e44a2c6bd)
+
+>![Screenshot (173)](https://github.com/user-attachments/assets/c916ade5-6ac2-453b-8120-2a9a50fa4e56)
+
+> ![Screenshot (174)](https://github.com/user-attachments/assets/82e8360c-7b32-464a-a6f1-0a338e749ece)
+
 >
