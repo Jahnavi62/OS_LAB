@@ -40,7 +40,8 @@ int main() {
 }
 ```
 # Output
-![Semsphore output](ops1.png)
+
+![Screenshot (183)](https://github.com/user-attachments/assets/4cb80ec4-7b0f-4350-b1bf-eda6320d41bb)
 
 # b) Source Code for Monitors
 ```c
@@ -121,7 +122,8 @@ int main() {
     return 0;
 }
 ```
-![monitor output](opm1.png)
+![Screenshot (176)](https://github.com/user-attachments/assets/a04242f4-55d6-42e3-91e5-54430fad837b)
+
 
 # Interpretion of the Program
 
